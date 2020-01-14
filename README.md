@@ -6,11 +6,58 @@
 [Overview.](#overview)<br>
 [Governance and Management Structure.](#governance-and-management-structure)<br>
 [Introduction](#introduction)<br>
+    - [Mission](#mission)<br>
+    - [Vision](#vision)<br>
+    - [Key Information](#key-information)<br>
+      - [Information and Services](#information-and-services)<br>
+      - [Personal File](#personal-file)<br>
+      - [Harassment](#harassment)<br>
+      - [Privacy](#privacy)<br>
+      - [Health and Safety](#health-and-safety)<br>
+      - [Fees and Financial Commitments](#fees-and-financial-commitments)<br>
+      - [Recognition of Prior Learning and Current Competency](#recognition-of-prior-learning-and-current-competency)<br>
+      - [Assessments](#assessments)<br>
+      - [Problem Solving Procedure](#problem-solving-procedure)<br>
 [Fees, Withdrawal and Refund Policy](#fees,-withdrawal-and-refund-policy)<br>
+    - [Fees Free Policy](#fees-free-policy)<br>
+    - [Fees Refunded After Commencement of Full Time Paid Programme](#fees-refunded-after-commencement-of-full-time-paid-programme)<br>
+    - [Bad Debts](#bad-debts)<br>
+    - [Fee Protection](#fee-protection)<br>
+    - [Consumer Protection Mechanisms](consumer-protection-mechanisms)<br>
+    - [Student Loans](#student-loans)<br>
+    - [Delays](#delays)<br>
+    - [Student Allowances](#students-allowances)<br>
+    - [Living Costs Loan](#living-costs-loan)<br>
+    - [Course Related Costs](#course-related-costs)<br>
 [Student Feedback and Evaluation](#student-feedback-and-evaluation)<br>
 [Academic Records and Privacy](#academic-records-and-privacy)<br>
 [New Zealand Qualifications Authority](#new-zealand-qualifications-authority)<br>
 [Policies and Procedures](#policies-and-procedures)<br>
+    - [Campus Rules and Regulations(#campus-rules-and-regulations)<br>
+    - [Expectations of Students](#expectations-of-students)<br>
+    - [Attendance Policy](#attendance-policy)<br>
+    - [Disciplinary Procedure](#disciplinary-procedure)<br>
+    - [Health and Safety](#health-and-safety)<br>
+    - [Drug and Alcohol Policy](#drug-and-alcohol-policy)<br>
+    - [Smoking Policy](#smoking-policy)<br>
+    - [Fire Evacuation Procedure](#fire-evacuation-procedure)<br>
+    - [Equal Education Opportunities Policy](#equal-education-opportunities-policy)<br>
+[Assessment](#assessment)<br>
+    - [Reassessment](#reassessment)<br>
+    - [Appeal of Assessment](#appeal-of-assessment)<br>
+    - [Review and re-mark of Assessments](#review-and-remark-of-assessments)<br>
+    - [Review Process](#review-process)<br>	
+    - [Plagiarism and cheating](#plagiarism-and-cheating)<br>
+[Assessment Appeal Form](#assessment-appeal-form)<br>
+[Suggestions and Complaints](#suggestions-and-complaints)<br>
+[Complaint Form](#complaint-form)<br>
+[Student Guidance and Support](#student-guidance-and-support)<br>
+[Guidance and Support Contact Information](#guidance-and-support-contact-information)<br>
+[Cultural Appropriateness.](#cultural-appropriateness)<br>
+[Karakia](#karakia)<br>
+[Waiata](#waiata)<br>
+[Getting Here.](#getting-here)<br>
+
 
 
 ## Welcome.
