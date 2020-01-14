@@ -6,18 +6,18 @@
 [Overview.](#overview)<br>
 [Governance and Management Structure.](#governance-and-management-structure)<br>
 [Introduction.](#introduction)<br>**
-    [Mission](#mission)<br>
-    [Vision](#vision)<br>
-    [Key Information](#key-information)<br>
-      - [Information and Services](#information-and-services)<br>
-      - [Personal File](#personal-file)<br>
-      - [Harassment](#harassment)<br>
-      - [Privacy](#privacy)<br>
-      - [Health and Safety](#health-and-safety)<br>
-      - [Fees and Financial Commitments](#fees-and-financial-commitments)<br>
-      - [Recognition of Prior Learning and Current Competency](#recognition-of-prior-learning-and-current-competency)<br>
-      - [Assessments](#assessments)<br>
-      - [Problem Solving Procedure](#problem-solving-procedure)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Mission](#mission)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Vision](#vision)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Key Information](#key-information)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Information and Services](#information-and-services)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Personal File](#personal-file)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Harassment](#harassment)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Privacy](#privacy)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Health and Safety](#health-and-safety)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Fees and Financial Commitments](#fees-and-financial-commitments)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Recognition of Prior Learning and Current Competency](#recognition-of-prior-learning-and-current-competency)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Assessments](#assessments)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Problem Solving Procedure](#problem-solving-procedure)<br>
 **[Fees, Withdrawal and Refund Policy](#fees,-withdrawal-and-refund-policy)<br>**
     - [Fees Free Policy](#fees-free-policy)<br>
     - [Fees Refunded After Commencement of Full Time Paid Programme](#fees-refunded-after-commencement-of-full-time-paid-programme)<br>
@@ -229,11 +229,11 @@ Students can expect fair and equitable treatment from Developers Institute and i
 - Have buildings and fittings in reasonable condition in keeping with public health and safety standards.
 - Have displayed safety signs in buildings and on roadways where restrictions apply.
 
-#### Fees & Financial Commitments
+#### Fees and Financial Commitments
 - Have the total costs, and other financial commitments associated with the programme or training scheme for which they are seeking enrolment on, fully available on the Developers Institute website. www.developersinstitute.ac.nz
 - Have Student support available, that is included in the fee structure on all Developers Institute programmes.
 
-#### Recognition of Prior Learning & Current Competency
+#### Recognition of Prior Learning and Current Competency
 - The prior learning of students will be taken into account in designing a training pathway, and adjustments will be made according to attendance requirements and units offered.
 - Students who wish to have prior learning assessed will be given the recognition of prior learning procedure information and the procedure will be followed. 
 - If a student wishes to apply for Recognition of Prior Learning / Recognition of Current Competency, please see Administration for assistance.
@@ -253,7 +253,7 @@ Use the following procedure where a student has a problem relating to a course, 
   3.    Have access to the Wellbeing Manager if the problem still cannot be resolved. A student representative may provide      support. If the problem concerns a complaint against a staff member the Wellbeing Manager or other staff member is obliged to inform the student of the formal complaints procedure and may recommend that such a complaint be filed.
   4.    The right to the formal complaints procedure, if it is recommended that such a complaint should be filed.  The complaints procedure is available in full in the *Student Concerns, Complaints, Academic Appeals and Disciplinary Policy* available on the website or at Reception.
 
-## Fees, Withdrawal & Refund Policy.
+## Fees, Withdrawal and Refund Policy.
 ### Fees Free Policy
 From 1 January 2018, tertiary education will be fees-free for eligible first time tertiary students. Broadly, if you’re a New Zealander who finished school in 2017, or later, you may qualify for a year of fees-free provider-based tertiary education or two years of industry training in 2018.
 If a prospective student is not a recent school leaver, and they have done less than half a year of education or training (including tertiary study in any other country), they may also qualify.
@@ -308,7 +308,7 @@ You can claim course-related costs from StudyLink at any stage during your study
 Important information - Course-related costs are part of a Student Loan so you'll need to pay them back. If you're eligible, you can get a maximum of $1,000 every 52 weeks, it doesn't matter how many courses you're studying during this time.
 Developers Institute supplies students with access to computers and software subscriptions which are included within the course fees.  There are no requirements for students to provide their own technology equipment unless they wish to do so.  Please see the Academic Director if you are planning to Bring Your Own Technology (BYOT).
 
-## Student Feedback & Evaluation
+## Student Feedback and Evaluation
 We encourage student feedback and evaluation of our learning materials and teaching processes, to monitor and improve the quality of the student learning experience through the collection, use and reporting of this feedback.
 
 We are continually reviewing all of our material, and record any feedback so that we can ensure our resources are relevant, correct and appropriate for each programme and the purpose they have in the current industry.  At the end of every assessment, there is an opportunity for students to provide feedback about their learning experience and to compete self-reflection activities.
@@ -556,10 +556,10 @@ For further information refer to *Academic Integrity Policy*, and the *Assessmen
 
 ## Assessment Appeal Form.
 
-## Suggestions And Complaints.
+## Suggestions and Complaints.
 A student may wish to offer a suggestion or complain about a decision, action or experience.  A suggestion can be uploaded anonymously to a digital suggestion box hosted by Typeform.
 
-All complaints should be brought to the attention of Developers Institute in the first instance by following the procedures set out in the Student Concerns, Complaints, Academic Appeals and Disciplinary Policy available on the Developers Institute website: www.developersinstitute.ac.nz. 
+All complaints should be brought to the attention of Developers Institute in the first instance by following the procedures set out in the *Student Concerns, Complaints, Academic Appeals and Disciplinary Policy* available on the Developers Institute website: www.developersinstitute.ac.nz. 
 Students must make every attempt to resolve any concerns they may have, at the earliest opportunity with those most directly involved within the programme or service area in which it originated.
 
 Where the student wishes to make a complaint, they should follow the complaints process stating the nature of the complaint and outlining the steps already taken to address the issue. To ensure that complaints can be resolved effectively, a complaint must be lodged within 3 months of the event occurring.
