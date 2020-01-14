@@ -1,5 +1,18 @@
 # Student-Handbook 2020
 
+### CONTENTS
+[Welcome.](#welcome)<br>
+[Body Corporate and Contact Details.](#body-corporate-and-contact-details)<br>
+[Overview.](#overview)<br>
+[Governance and Management Structure.](#governance-and-management-structure)<br>
+[Introduction](#introduction)<br>
+[Fees, Withdrawal and Refund Policy](#fees,-withdrawal-and-refund-policy)<br>
+[Student Feedback and Evaluation](#student-feedback-and-evaluation)<br>
+[Academic Records and Privacy](#academic-records-and-privacy)<br>
+[New Zealand Qualifications Authority](#new-zealand-qualifications-authority)<br>
+[Policies and Procedures](#policies-and-procedures)<br>
+
+
 ## Welcome.
 Our team is pleased to have you on one of our programmes at Developers Institute.
 This Handbook applies to all students enrolled on a programme at the Developers Institute. It contains important information pertaining to your study.
@@ -8,7 +21,7 @@ All of us who work at Developers Institute have your best interests at heart and
 
 Signed - Academic Director
 
-## Body Corporate & Contact Details.
+## Body Corporate and Contact Details.
 
 <table>
   <thead> Organisational Contact </thead>
@@ -279,7 +292,7 @@ The New Zealand Qualifications Authority (NZQA) is based in Wellington. NZQA set
 
 Developers Institute Limited is an approved training provider that must abide by the requirements of NZQA for the delivery of teaching and the assessment of learning. Developers Institute has a Quality Management System and is evaluated and reviewed by NZQA to ensure compliance. The New Zealand Qualifications Framework (NZQF) was established by NZQA to be the national register of approved Unit and Achievement Standards.
 
-## Policies & Procedures.
+## Policies and Procedures.
 There are a number of policies and procedures that will affect you during your programme of study at Developers Institute. These are detailed in the following pages, with full policies available upon request.
 Enrolled students will have access to full student policies upon commencement of their programme.
 Please do not hesitate to ask if you have any queries.
