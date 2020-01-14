@@ -555,7 +555,7 @@ Developers Institute reserves the right to use electronic systems to detect acad
 For further information refer to *Academic Integrity Policy*, and the *Assessment Policy*.
 
 ## Assessment Appeal Form.
-Please download the Assessment Appeal Form [here.](Assessment Appeal Form.pdf)
+Please download the Assessment Appeal Form [here.](https://github.com/Developers-Institute-Internal/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy)
 
 ## Suggestions and Complaints.
 A student may wish to offer a suggestion or complain about a decision, action or experience.  A suggestion can be uploaded anonymously to a digital suggestion box hosted by Typeform.
@@ -590,9 +590,9 @@ The Quality Commissioner aims to resolve disputes individual students may have w
 These options are still available but now students have another alternative in the Quality Commission.
 
 ## Complaint Form.
-A digital submission can be made [here](https://developersinstitute349232.typeform.com/to/lLiPNo) where a student wishes to make an informal complaint about something affecting their study on any programme at Developers Institute.
+Where a student wishes to make an informal complaint about something affecting their study on any programme at Developers Institute, a digital submission can be made [here.](https://developersinstitute349232.typeform.com/to/lLiPNo) 
 
-If you do not use this form, please include the following information in your letter to assist Developers Institute to resolve your complaint. Alternatively a form can be downloaded [here].(https://github.com/Developers-Institute-Internal/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy/raw/master/Complaint%20Form.pdf)
+Alternatively a form can be [downloaded.](https://github.com/Developers-Institute-Internal/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy/raw/master/Complaint%20Form.pdf)
 
 ## Student Guidance and Support.
 We can help you in the following ways:
