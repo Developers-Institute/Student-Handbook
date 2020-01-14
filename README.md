@@ -524,7 +524,7 @@ The legislation relating to discrimination is contained in the *Human Rights Act
 Any student who has scored below 50% on the assessment, or project may request one opportunity to resubmit their final assessment, or project. The Programme Committee will only allow one resubmission opportunity for an assessment item. The mark of a resubmission is capped at ceiling of 50% which equates to a C- grade. 
 
 ### Appeal of Assessment
-Please follow the procedure outlined below for review or appeal of assessment.  Should you need to request an appeal or review, please use the Appeal of Assessment form provided on the next page. A digital submission can be made [here](https://developersinstitute349232.typeform.com/to/sf6qvB).
+Please follow the procedure outlined below for review or appeal of assessment.  Should you need to request an appeal or review, please follow [this link](https://developersinstitute349232.typeform.com/to/sf6qvB).  Alternatively you may download the Appeal of Assessment form and submit to the Academic Director.
 
 ### Review and re-mark of Assessments
 Any candidate who feels that an assessment decision that does not award them credit was incorrect, is entitled to have their assessment reviewed. The candidate’s request for the review should be emailed to admin@developersinstitute.ac.nz or by writing to:<br>
@@ -555,6 +555,7 @@ Developers Institute reserves the right to use electronic systems to detect acad
 For further information refer to *Academic Integrity Policy*, and the *Assessment Policy*.
 
 ## Assessment Appeal Form.
+Please download the Assessment Appeal Form [here.](Assessment Appeal Form.pdf)
 
 ## Suggestions and Complaints.
 A student may wish to offer a suggestion or complain about a decision, action or experience.  A suggestion can be uploaded anonymously to a digital suggestion box hosted by Typeform.
@@ -589,40 +590,9 @@ The Quality Commissioner aims to resolve disputes individual students may have w
 These options are still available but now students have another alternative in the Quality Commission.
 
 ## Complaint Form.
-This form is to be used where a student wishes to make an informal complaint about something affecting their study on any programme at Developers Institute.
+A digital submission can be made [here](https://developersinstitute349232.typeform.com/to/lLiPNo) where a student wishes to make an informal complaint about something affecting their study on any programme at Developers Institute.
 
-If you do not use this form, please include the following information in your letter to assist Developers Institute to resolve your complaint. This form can be digitally submitted by following [this link](https://developersinstitute349232.typeform.com/to/lLiPNo). You may also request a hardcopy from the Administration team.
-
-<table>
-  <tr>
-    <td valign="left"><strong>Date:</strong></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td valign="left"><strong>Name:</strong></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <td valign="left"><strong>Address:</strong></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <td valign="left"><strong>Contact Number:</strong></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <td valign="left"><strong>Email Address:</strong></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <td valign="left"><strong>Preferred contact option:</strong></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <td valign="left"><strong>Programme Name:</strong></td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
- </table>
- 
- 
-  Please choose one of the options below: (please tick one)
-    - [ ]I want to raise a concetn (not a formal complaint)<br>
-    - [ ]I want to lodge a complaint (dealt with by the Chief Executive)
+If you do not use this form, please include the following information in your letter to assist Developers Institute to resolve your complaint. Alternatively a form can be downloaded [here].(https://github.com/Developers-Institute-Internal/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy/raw/master/Complaint%20Form.pdf)
 
 ## Student Guidance and Support.
 We can help you in the following ways:
