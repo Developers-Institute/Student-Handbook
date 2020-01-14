@@ -10,7 +10,7 @@ Signed - Academic Director
 
 ## Body Corporate & Contact Details.
 
-<table style="width: 100%;">
+<table>
   <thead> Organisational Contact </thead>
   <tbody>
     <tr>
@@ -532,4 +532,358 @@ These options are still available but now students have another alternative in t
 This form is to be used where a student wishes to make an informal complaint about something affecting their study on any programme at Developers Institute.
 
 If you do not use this form, please include the following information in your letter to assist Developers Institute to resolve your complaint. This form can be digitally submitted by following [this link](https://developersinstitute349232.typeform.com/to/lLiPNo). You may also request a hardcopy from the Administration team.
+
+<table>
+  <tr>
+    <td valign="left"><strong>Date:</strong></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="left"><strong>Name:</strong></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <td valign="left"><strong>Address:</strong></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <td valign="left"><strong>Contact Number:</strong></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <td valign="left"><strong>Email Address:</strong></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <td valign="left"><strong>Preferred contact option:</strong></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <td valign="left"><strong>Programme Name:</strong></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ </table>
+ 
+ 
+  Please choose one of the options below: (please tick one)
+    - [ ]I want to raise a concetn (not a formal complaint)<br>
+    - [ ]I want to lodge a complaint (dealt with by the Chief Executive)
+
+## Student Guidance and Support.
+We can help you in the following ways:
+
+Programme Requirements
+  - Learning Assistance
+  - Expectations
+  - Literacy and Numeracy
+
+Conflict
+  - Student / Student
+  - Student / Tutor
+
+Harassment
+  - What to do about it
+
+Sexual Harassment
+  - What to do about it
+
+Health
+  - Doctors Appointments
+  - First Aid / Sickness
+  - Emergency Contraception
+  - Class Visits / Information etc
+  - Health Nurse
+
+Culturally Appropriate Resource People
+  - Wellbeing Manager
+  - Māori Liaison Person
+  - Pacific Island Liaison Person
+  - Other Liaisons
+
+Student
+  - Advocacy and Support
+
+Your first point of contact is your Tutor, Academic Director or any other member of staff you feel comfortable talking to. Contacts for other agencies are in the following pages.
+
+Talk to your Tutor, Academic Director or any member of staff you are comfortable talking to. Appropriate staff will provide a confidential support service. We have training and experience to assist you with many issues. Where we are not equipped to help, we will ensure you are put in touch with the appropriate agency or person.
+
+**What is harassment?**
+Harassment includes but is not limited to any verbal or physical conduct, including misuse of visual or written material, by one person toward another, is unwelcome and offensive and might reasonably be perceived as unwelcome and offensive - and such conduct is of a serious nature, or is persistent, to the extent that it interferes with the individual’s study, or other work or enjoyment of the campus amenities.
+
+**What is the definition of sexual harassment?**
+Any verbal and/or physical behaviour of a sexual nature which is unwelcome, unsolicited and non-reciprocal, including but not limited to: sexually-orientated jokes, cartoons, posters, pin-ups, offensive questions or comments, abuse, leering, unwanted and deliberate contact, touching, pinching, rubbing, questions and comments about one’s private life or suggestive remarks. Such behaviour is harassment whether it comes from an individual or a group, staff or students.
+
+Developers Institute has **zero tolerance for any form of harassment.**
+
+For further information please refer to the Non-Discrimination, Anti-Harassment and Bullying Policy available on the website or at Administration.
+
+## Guidance and Support Contact Information.
+A list of external support groups and organisations has been compiled and is available through the website www.developersinstitute.ac.nz
+
+## Cultural Appropriateness.
+It is important that the learning environment and the teaching we provide is culturally appropriate.
+
+If you have any concerns about this or observe ways in which we can meet your needs more appropriately we will be pleased to have your help. We have cultural advisors available. They speak for us and for you.
+
+### Māori Words and Greetings 
+<table>  
+<tr>
+   <td valign="top">
+     Ae: yes <br>
+Aroha: love/sorrow<br>
+Haere mai: welcome<br>
+Haere ra: goodbye (to the person leaving)<br>
+Haka: ceremonial dance<br>
+Hangi: earth oven and food prepared in it<br>
+Hongi: greeting by pressing noses<br>
+Hui: meeting<br>
+Iwi: Tribe or people<br>
+Kai: food<br>
+Kāhore: no<br>
+Ka pai!: exclamation of pleasure or<br>
+approval; good, agreement
+Karakia: chant or prayer<br>
+Karanga: call of welcome<br>
+Kaumatua: male elder<br>
+E pēhea ana koe?: how are you?<br>
+E pai ana: I am fine<br>
+Kia ora: hello<br>
+Koha: gift<br>
+Kuia: female elder<br>
+Mana: authority / pride<br>
+</td>
+<td valign="top">
+Manuhiri: guest, visitor<br>
+Marae: enclosed space in front of meeting house, meeting place<br>
+Huihui: to meet<br>
+Moana: sea or lake<br>
+Pa: settlement or stockaded village<br>
+Puke: hill<br>
+Rangatira: chief<br>
+Tane: man<br>
+Hau kainga: hosts, people of the land<br>
+Tangi: bereavement, funeral gathering<br>
+Tapu: sacred, restricted<br>
+Tēnā koe: hello (formal, to one person)<br>
+Tēnā korua: hello (to, two people)<br>
+Tēnā koutou: hello (to, three or more people)<br>
+Tupuna: ancestor<br>
+Wahine: woman<br>
+Wai: water<br>
+Whanau: family<br>
+Whare: house, hut or building<br>
+Whenua: land<br>
+                </td>
+  </tr>
+  </table>
+  
+### Karakia
+<table>  
+<tr>
+   <td>     
+Inoi a te Ariki – The Lords Prayer<br>
+E to matou matua I te rangi<br>
+Kia tapu tou ingoa<br>
+Kia tae mai tou rangatiratanga<br>
+Kia meatia tau e pai ai ki runga I te whenua<br>
+Kia rite ano ki to te rangi<br>
+Homai ki a matou aianei<br>
+He taro mo matou mo tenei ra<br>
+Murua o matou hara<br>
+Me matou hoki e muru nei I o te hunga e hara ana<br>
+Ki a matou<br>
+Aua hoki matou e kawea kia whakawaia<br>
+Engari whakaorangia matoa I te kino<br>
+Nou hoki te rangatiratanga<br>
+Te kaha me te kororia<br>
+Ake Ake Amine<br>
+</td>
+
+<td valign="top">
+Our Father who art in Heaven<br>
+Hallowed be thy name.<br>
+Thy kingdom come<br>
+Thy will be done<br>
+On earth as it is in heaven<br>
+Give us this day our daily bread<br>
+And forgive us our trespasses<br>
+As we forgive those who trespass<br>
+against us<br>
+and lead us not into temptation<br>
+But deliver us from evil<br>
+For thine is the kingdom<br>
+The power and the glory.<br>
+Forever and ever.<br>
+Amen<br>
+</td>
+</tr>
+</table>
+
+## Waiata
+### Te Puawaitanga O Ngāpuhi
+<table>
+ <tr>
+   <td valign="top">
+   
+Whakarongo mai<br>
+Ki te reo e tangi nei<br>
+E ringihia mai ana,<br>
+Mai i aku kamo<br>
+Nga roimata e<br>
+Whiti mai te ra<br>
+Ngaro ana te mamae<br>
+Ngaro noa te pouri<br>
+Kaua e mau riri<br>
+Anei ano he ra<br>
+Maranga mai e te iwi<br>
+O nga hapu Ngapuhi<br>
+Kia mau, kia u, kia pupuri ai<br>
+Ki nga akoranga nui<br>
+Takahia te ao<br>
+Ka kitea te iwi<br>
+E tu tangata mai tatou,<br>
+Nga uri o ratou<br>
+Kua mene ki te po<br>
+Tenei te mihi<br>
+Ki nga kai awhina e<br>
+Ki nga whaea nga matua<br>
+Anei ra ko nga hua<br>
+E puawai ana mai<br>
+Maranga mai...<br>
+</td>
+
+<td valign="top">
+ 
+Listen<br>
+to the voice that is crying out<br>
+and see the tears that<br>
+are falling from the eyes<br>
+
+But as the sun shines<br>
+the pain disappears and<br>
+the sadness falls away<br>
+don’t hold any anger<br>
+for today is another day<br>
+Rise up ye the people<br>
+of the sub tribes of Ngapuhi<br>
+to hold firmly & securely & forever<br>
+the great teachings<br>
+As you travel the world<br>
+it will be seen by the people<br>
+that we stand proud<br>
+we the descendants of those who have<br>
+been lost to the night<br>
+This is the thanks we give<br>
+to our many helpers,<br>
+to our aunts and uncles, mothers<br>
+and fathers. Here we are the<br>
+fruit of your labour<br>
+that blossom before you.<br>
+ </td>
+ </tr>
+ </table>
+ 
+ ### Te Aroha
+ 
+ <table>
+ <tr>
+   <td valign="top">
+     
+Te aroha <br>
+Te whakapono <br>
+Te rangimarie <br>
+Tātou, tätou e.<br>
+<br>
+Te aroha <br>
+Te whakapono <br>
+Te rangimarie <br>
+Tātou, tätou e<br>
+<br>
+Te aroha<br>
+Te whakapono<br>
+Me te rangimarie<br>
+Tātou tatou e<br>
+</td>
+
+<td valign="top">
+  
+Love,<br>
+Hope,<br>
+Peace,<br>
+For us all.<br>
+<br>
+Love,<br>
+Hope,<br>
+Peace,<br>
+For us all.<br>
+<br>
+Love,<br>
+Hope,<br>
+Peace,<br>
+For us all.<br>
+</td>
+</table>
+
+### Wairua Tapu
+
+<table>
+ <tr>
+   <td valign="top">
+     
+Wairua tapu tau mai ra <br>
+Wairua tapu mai runga<br>
+Uhia mai nga taonga pai<br>
+Homai to aroha<br>
+<br>
+Wahia kia tika<br>
+Akona mai ra kia u ki te pai<br>
+Horoia kia ma tonu ra<br>
+Ko koe te tino kororia<br>
+</td>
+
+<td valign="top">
+
+Holy spirit rest upon us<br>
+Holy spirit from above,<br>
+With your many gifts<br>
+We receive your love.<br>
+Teach us your ways<br>
+As we remember you.<br>
+</td>
+</table>
+
+### E Hara I Te Mea
+
+<table>
+ <tr>
+   <td valign="top">
+   
+E hara I te mea<br>
+No naianei te aroha<br>
+No nga tupuna<br>
+I tuku iho I tuku iho<br>
+Te whenua te whenua<br>
+Hei oranga mo te iwi<br>
+No nga tupuna<br>
+I tuku iho I tuku iho<br>
+Whakapono tumanako<br>
+Te aroha o te iwi<br>
+No nga tupuna<br>
+I tuku iho I tuku iho<br>
+</td>
+
+<td valign="top">    
+It is not the thing<br>
+That love is only of now<br>
+Our ancestors<br>
+Gifted to us<br>
+The land, the land<br>
+That people will live on<br>
+Our ancestors<br>
+Gifted to us<br>
+Truth and honesty<br>
+The love of the people<br>
+Our ancestors<br>
+Gifted to us<br>
+</td>
+</table>
+
+
+## Getting Here.
+Whangārei has a number of bus routes that connect to the Central Whangārei Campus. Timetables can be found online at: http://citylinkwhangarei.co.nz/ or you can ask your Tutor or the administration team for assistance. 
 
