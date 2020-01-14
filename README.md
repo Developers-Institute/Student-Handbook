@@ -464,5 +464,72 @@ The legislation relating to discrimination is contained in the *Human Rights Act
 Any student who has scored below 50% on the assessment, or project may request one opportunity to resubmit their final assessment, or project. The Programme Committee will only allow one resubmission opportunity for an assessment item. The mark of a resubmission is capped at ceiling of 50% which equates to a C- grade. 
 
 ### Appeal of Assessment
-Please follow the procedure outlined below for review or appeal of assessment.  Should you need to request an appeal or review, please use the Appeal of Assessment form provided on the next page. A digital submission can be made here
+Please follow the procedure outlined below for review or appeal of assessment.  Should you need to request an appeal or review, please use the Appeal of Assessment form provided on the next page. A digital submission can be made [here](https://developersinstitute349232.typeform.com/to/sf6qvB).
+
+### Review and re-mark of Assessments
+Any candidate who feels that an assessment decision that does not award them credit was incorrect, is entitled to have their assessment reviewed. The candidate’s request for the review should be emailed to admin@developersinstitute.ac.nz or by writing to:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Academic Director<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Developers Institute Limited<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c/- The Orchard Business and Event Hub<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Level 1. 85 Cameron St<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whangārei. 0110<br>
+
+The request must be received within 5 working days of receiving notification of the assessment decision. Reviews may be requested for a number of reasons including:
+  - That the assessor did not recognise the candidate’s achievement of the required standard of performance.
+  - That the assessor failed to follow proper and agreed assessment procedures.
+  - The decision is different from the feedback received at the time of the assessment.
+
+### Review Process
+  1.  Students who wish to appeal the results of their assessments shall discuss their concerns with the Wellbeing Manager or Tutor first. 
+  2.  If they are dissatisfied with the outcome of the discussion with the Wellbeing Manager or Tutor, then the student may appeal to the Academic Director in writing within five (5) days of receipt of the grade. 
+  3.  The Academic Director’s decision shall be final.
+  
+For further information about Assessment appeals, re-sits, re-marks or recounts please refer to the following policies; the *Student Concerns, Complaints, Academic Appeals and Disciplinary Policy* and the *Student Monitoring Policy*, and the *Assessment Policy* - available upon request.
+
+### Plagiarism and cheating
+It is expected that all student work submitted is of their own.
+
+Cheating - giving any fraudulent response, and Plagiarism - taking and using another’s work as one’s own without proper acknowledgment; is categorised as Academic misconduct. 
+Where Academic misconduct is alleged evaluation and disciplinary procedures will be followed., severe penalties will be imposed for confirmed misconduct.
+Developers Institute reserves the right to use electronic systems to detect academic misconduct. Students will be notified where such systems are in place.
+For further information refer to *Academic Integrity Policy*, and the *Assessment Policy*.
+
+## Assessment Appeal Form.
+
+## Suggestions And Complaints.
+A student may wish to offer a suggestion or complain about a decision, action or experience.  A suggestion can be uploaded anonymously to a digital suggestion box hosted by Typeform.
+
+All complaints should be brought to the attention of Developers Institute in the first instance by following the procedures set out in the Student Concerns, Complaints, Academic Appeals and Disciplinary Policy available on the Developers Institute website: www.developersinstitute.ac.nz. 
+Students must make every attempt to resolve any concerns they may have, at the earliest opportunity with those most directly involved within the programme or service area in which it originated.
+
+Where the student wishes to make a complaint, they should follow the complaints process stating the nature of the complaint and outlining the steps already taken to address the issue. To ensure that complaints can be resolved effectively, a complaint must be lodged within 3 months of the event occurring.
+
+The Chief Executive or nominee of the Chief Executive will investigate both sides and ultimately make a ruling. Note: The Chief Executive is ultimately responsible for that ruling.
+
+If satisfaction is not reached using the internal procedure, then the complaint or suggestion may be taken further and the student can access an industry nominated representative. Details for the relevant representative are available from reception.
+
+If a complaint is not resolved satisfactorily from the students perspective; A student may make a formal complaint to NZQA in writing about Developers Institute (the registered PTE) using the formal complaint form provided on the NZQA website.  Students must make a genuine effort to resolve their concerns by following the Developers Institute formal complaint process, before making a formal complaint to NZQA.
+For further information about making a complaint and the formal complaints form - see the information on the NZQA website: 
+https://www.nzqa.govt.nz/about-us/make-a-complaint/make-a-complaint-about-a-provider/.
+If the complaint is still not resolved at this stage, Developers Institute is a member of the ITENZ Quality Commission Scheme and this offers students another option for resolving issues.
+The scheme works like this:
+  1.  If you have a complaint about any aspect of the service you have purchased from a provider, use the provider’s internal complaints process.
+  2.  If you are not satisfied with the outcome of the internal complaints process – or are still deadlocked after two months – you can lodge a complaint with the Quality Commissioner.
+  3.  The Commissioner decides whether this is the sort of complaint the scheme covers and what procedure to follow. If you have not followed the provider’s internal complaints process, the Commissioner will refer the complaint back to the provider.
+  4.  Your provider is given full details of your complaint and is asked to respond.
+  5.  Having considered your complaint, the Commissioner can promote a settlement between you and the provider.
+  6.  If this does not work, the Commissioner can recommend a resolution, including a monetary settlement.
+  7.  Settlements are full and final. If you accept the settlement you can not pursue other avenues.
+
+How does the Quality Commission complaints service differ from other options students have?
+The Quality Commissioner aims to resolve disputes individual students may have with a provider. Up until now students have had the option of;
+  1.  Taking a complaint to the New Zealand Qualifications Authority if satisfaction is not found elsewhere.
+  2.  Going to the source of Government funding.
+  3.  Taking legal action.
+These options are still available but now students have another alternative in the Quality Commission.
+
+## Complaint Form.
+This form is to be used where a student wishes to make an informal complaint about something affecting their study on any programme at Developers Institute.
+
+If you do not use this form, please include the following information in your letter to assist Developers Institute to resolve your complaint. This form can be digitally submitted by following [this link](https://developersinstitute349232.typeform.com/to/lLiPNo). You may also request a hardcopy from the Administration team.
 
