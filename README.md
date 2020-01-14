@@ -555,7 +555,7 @@ Developers Institute reserves the right to use electronic systems to detect acad
 For further information refer to *Academic Integrity Policy*, and the *Assessment Policy*.
 
 ## Assessment Appeal Form.
-Please download the Assessment Appeal Form [here.](https://github.com/Developers-Institute-Internal/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy)
+Please download the Assessment Appeal Form [here.](Assessment Appeal Form.pdf)
 
 ## Suggestions and Complaints.
 A student may wish to offer a suggestion or complain about a decision, action or experience.  A suggestion can be uploaded anonymously to a digital suggestion box hosted by Typeform.
