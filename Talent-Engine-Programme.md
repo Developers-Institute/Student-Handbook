@@ -1,18 +1,5 @@
 # Talent Engine Programme
 
-
-# Table of Contents
-
-
-[TOC]
-
-
-
-
-
-# Talent Engine Programme
-
-
 ## 2020-2023
 
 
