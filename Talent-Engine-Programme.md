@@ -118,7 +118,9 @@ By doing so, you will be significantly more equipped to:
 
 #### Commitment
 
-First and foremost, you must be committed to your job search goal/s! You must know why you want what you want, and then you must decide wholeheartedly that you will do whatever it takes to get there. It will not be easy (nothing truly worth it is). There will likely be ups and downs, but it will be worth it once you have achieved it! You must above all ‘keep your eye on the prize’, and keep moving forward, one step at a time. While it is easy to sometimes feel like each step seems so small that it’s meaningless (especially in the beginning), the only way to move closer towards your goal is to keep moving! As long as each step you are taking day by day is moving you one step closer, then you are headed in the right direction.
+First and foremost, you must be committed to your job search goal/s! You must know why you want what you want, and then you must decide wholeheartedly that you will do whatever it takes to get there. It will not be easy (nothing truly worth it is).
+
+There will likely be ups and downs, but it will be worth it once you have achieved it! You must above all ‘keep your eye on the prize’, and keep moving forward, one step at a time. While it is easy to sometimes feel like each step seems so small that it’s meaningless (especially in the beginning), the only way to move closer towards your goal is to keep moving! As long as each step you are taking day by day is moving you one step closer, then you are headed in the right direction.
 
 
 #### Patience 
@@ -138,7 +140,11 @@ Preparing customised, compelling cover letters and thank you’s to convey your 
 
 Researching a company in detail across the web (their website, social media channels, etc.) to gather valuable intel on their history, products/services, clients, mission, culture, key values and principles, and how YOU are aligned with them. They will expect you to know these things.
 
-Researching your interviewers on LinkedIn (and Google) before interviews so you have a deeper understanding of not only what is important to them in the work context, but also of them as an individual, their career path, interests, etc. This is helpful in finding a commonality so that you can ‘break the ice’ as soon as you meet them. Did you both come from a bootcamp or graduate from the same school? Are you both from the same home town? Do you both follow the same sports teams or volunteer for the same non-profits? Do you have friends/connections in common? Don’t disregard these things! As small as they may seem, they can make a huge difference in your ability to instantly connect and build a strong and positive rapport with them. People like to hire people like them (on the same page, similar mindset, attitude, etc.) and that fit well into their culture. Leverage the available information out there to help you do this successfully. By doing so you will also show your interviewer that you are serious about the role and have a great work ethic. After all, how well you research them is an indication of how thorough you will be in the job.
+Researching your interviewers on LinkedIn (and Google) before interviews so you have a deeper understanding of not only what is important to them in the work context, but also of them as an individual, their career path, interests, etc. This is helpful in finding a commonality so that you can ‘break the ice’ as soon as you meet them. Did you both come from a bootcamp or graduate from the same school? 
+
+Are you both from the same home town? Do you both follow the same sports teams or volunteer for the same non-profits? Do you have friends/connections in common? 
+
+Don’t disregard these things! As small as they may seem, they can make a huge difference in your ability to instantly connect and build a strong and positive rapport with them. People like to hire people like them (on the same page, similar mindset, attitude, etc.) and that fit well into their culture. Leverage the available information out there to help you do this successfully. By doing so you will also show your interviewer that you are serious about the role and have a great work ethic. After all, how well you research them is an indication of how thorough you will be in the job.
 
 
 #### Passion/Personality
