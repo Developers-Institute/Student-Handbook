@@ -544,7 +544,7 @@ The request must be received within 5 working days of receiving notification of 
   2.  If they are dissatisfied with the outcome of the discussion with the Wellbeing Manager or Tutor, then the student may appeal to the Academic Director in writing within five (5) days of receipt of the grade. 
   3.  The Academic Director’s decision shall be final.
   
-For further information about Assessment appeals, re-sits, re-marks or recounts please refer to the following policies; the *Student Concerns, Complaints, Academic Appeals and Disciplinary Policy* and the *Student Monitoring Policy*, and the *Assessment Policy* - available upon request.
+For further information about Assessment appeals, re-sits, re-marks or recounts please refer to the following policies; the *Student Concerns, Complaints, Academic Appeals and Disciplinary Policy* and the [*Student Performance Monitoring Policy*]('https://github.com/Developers-Institute/Student-Performance-Monitoring-Policy'), and the [*Assessment Policy*]('https://github.com/Developers-Institute/Assessment-Policy').
 
 ### Plagiarism and cheating
 It is expected that all student work submitted is of their own.
@@ -552,7 +552,7 @@ It is expected that all student work submitted is of their own.
 Cheating - giving any fraudulent response, and Plagiarism - taking and using another’s work as one’s own without proper acknowledgment; is categorised as Academic misconduct. 
 Where Academic misconduct is alleged evaluation and disciplinary procedures will be followed., severe penalties will be imposed for confirmed misconduct.
 Developers Institute reserves the right to use electronic systems to detect academic misconduct. Students will be notified where such systems are in place.
-For further information refer to *Academic Integrity Policy*, and the *Assessment Policy*.
+For further information refer to the [*Academic Integrity Policy*]('https://github.com/Developers-Institute/Academic-Intergrity-Policy'), and the [*Assessment Policy*]('https://github.com/Developers-Institute/Assessment-Policy').
 
 ## Assessment Appeal Form.
 Please download the Assessment Appeal Form [here](https://github.com/Developers-Institute-Internal/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy/raw/master/Assessment%20Appeal%20Form.pdf)
@@ -640,7 +640,7 @@ Any verbal and/or physical behaviour of a sexual nature which is unwelcome, unso
 
 Developers Institute has **zero tolerance for any form of harassment.**
 
-For further information please refer to the Non-Discrimination, Anti-Harassment and Bullying Policy available on the website or at Administration.
+For further information please refer to the [*Non-Discrimination, Anti-Harassment and Bullying Policy*]('https://github.com/Developers-Institute/Non-Discrimination-Anti-Harassment-and-Bullying-Policy').
 
 ## Guidance and Support Contact Information.
 A list of external support groups and organisations has been compiled and is available through the website www.developersinstitute.ac.nz
