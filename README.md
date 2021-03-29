@@ -33,6 +33,7 @@
 [Academic Records and Privacy.](#academic-records-and-privacy)<br>
 [New Zealand Qualifications Authority.](#new-zealand-qualifications-authority)<br>
 [Policies and Procedures.](#policies-and-procedures)<br>**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Enrolment Policy](#enrolment-policy)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Campus Rules and Regulations](#campus-rules-and-regulations)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Expectations of Students](#expectations-of-students)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Attendance Policy](#attendance-policy)<br>
@@ -204,7 +205,7 @@ The following information indicates what students can expect from Developers Ins
 Students can expect fair and equitable treatment from Developers Institute and its employees. All students of Developers Institute are entitled to the following:
 
 #### Information and Services
-- Receive full and accurate information before enrolment about all key aspects of a programme, fees, refunds and      withdrawal processes.
+- Receive full and accurate information before enrolment about all key aspects of a programme, fees, refunds and withdrawal processes.
 - Be informed of start dates and obligations.
 - Be provided with information on student support services and which members of staff are able to assist in specific areas.
 - Receive competent and effective teaching from appropriately trained staff, qualified in the relevant field of teaching.
@@ -230,7 +231,7 @@ Students can expect fair and equitable treatment from Developers Institute and i
 - Have displayed safety signs in buildings and on roadways where restrictions apply.
 
 #### Fees and Financial Commitments
-- Have the total costs, and other financial commitments associated with the programme or training scheme for which they are seeking enrolment on, fully available on the Developers Institute website. www.developersinstitute.ac.nz
+- Have the total costs, and other financial commitments associated with the programme or training scheme for which they are seeking enrolment on, fully available on the Developers Institute website. www.developers.ac.nz
 - Have Student support available, that is included in the fee structure on all Developers Institute programmes.
 
 #### Recognition of Prior Learning and Current Competency
@@ -251,7 +252,7 @@ Use the following procedure where a student has a problem relating to a course, 
   1.    Identify the problem and discuss it at a mutually arranged time with the person concerned. Assistance in identifying the       problem can be sought from Developers Institute staff.
   2.    Have access to another person to mediate the problem.
   3.    Have access to the Wellbeing Manager if the problem still cannot be resolved. A student representative may provide      support. If the problem concerns a complaint against a staff member the Wellbeing Manager or other staff member is obliged to inform the student of the formal complaints procedure and may recommend that such a complaint be filed.
-  4.    The right to the formal complaints procedure, if it is recommended that such a complaint should be filed.  The complaints procedure is available in full in the *Student Concerns, Complaints, Academic Appeals and Disciplinary Policy* available on the website or at Reception.
+  4.    The right to the formal complaints procedure, if it is recommended that such a complaint should be filed.  The complaints procedure is available in full in the [*Student Concerns, Complaints, Academic Appeals and Disciplinary Policy*](https://github.com/Developers-Institute/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy) available on the website or at Reception.
 
 ## Fees, Withdrawal and Refund Policy.
 ### Fees Free Policy
@@ -267,7 +268,7 @@ With effect from 2 June 2018, domestic students withdrawing from courses of less
 Domestic students are entitled to a refund if they withdraw from a programme or training scheme as per section 235 of the Education Act 1989, and if: the course is of three months duration or more and the withdrawal occurs up to the end of the eighth (8) working day after the start of a course.
 Formal withdrawal within the first eight (8) working days of the programme is confirmed by the completion and return of the Cancellation/Withdrawal Form to the Programme Coordinator. The Academic Director shall have been communicated with (by the Programme Coordinator) and signed off the form for the withdrawal to proceed. The date of withdrawal is deemed to be the date the student returns the signed Cancellation/Withdrawal form.
 The Developers Institute will refund an amount equal to the sum of the amount paid. Any due refunds will be available within fourteen days of notice of withdrawal. 
-Please see Student Refunds, Withdrawals and Fee Protection Policy for further information.
+Please see [*Student Refunds, Withdrawals and Fee Protection Policy*](https://github.com/Developers-Institute/Student-Refunds-Withdrawals-Fee-Protection-Policy) for further information.
 
 ### Bad Debts
 Where money is due to Developers Institute and not paid as due, or arrangements made and adhered to, Developers Institute reserves the right to refer debts to a Debt Collection Agency. If this occurs, all costs associated with debt collection will be added to the debt owed to Developers Institute.
@@ -329,7 +330,7 @@ Student Feedback will be used:
 
 The team at Developers Institute are committed to meeting student needs and ensuring ongoing success. You will also have the opportunity to provide feedback on your Tutor and the programme you attend during the year through the evaluation process.
 
-Please see Developers Institute’s *Student Feedback Policy* available on the website for more information on Learner feedback and Evaluation.
+Please see Developers Institute’s [*Student Feedback Policy*](https://github.com/Developers-Institute/Student-Feedback-Policy) for more information on Learner feedback and Evaluation.
 
 ## Academic Records and Privacy.
 Students have the right to have their personal details protected and only given out to legitimate agencies for statistical and recording purposes. Make sure to let us know if any of your personal details change. This is so important, as we do not want you to miss out on any information that you are entitled to have.
@@ -343,6 +344,9 @@ Developers Institute Limited is an approved training provider that must abide by
 There are a number of policies and procedures that will affect you during your programme of study at Developers Institute. These are detailed in the following pages, with full policies available upon request.
 Enrolled students will have access to full student policies upon commencement of their programme.
 Please do not hesitate to ask if you have any queries.
+
+### Enrolment Policy
+- [*Student Enrolment and Procedures Policy*](https://github.com/Developers-Institute/Student-Enrolment-and-Procedures-Policy).
 
 ### Campus Rules and Regulations
 These rules and regulations must be respected at all times by all individuals on any Developers Institute site, and during off-site activities.
@@ -404,7 +408,7 @@ These conditions apply to all students on a programme at Developers Institute:
   2.  If consistently late starting in the mornings or back from breaks, this will result in a warning from the Tutor and noted in the additional notes on the students file.
   3.  If a student is absent for three consecutive days without any contact, the Tutor and/or Academic Director will try to make contact with the student by phone or home visit and arrange learning conversation.
   4.  If no contact is made, the Academic Director will send a letter to the student advising them that their Student Allowance will be affected if they do not make contact or return to the programme.
-  5.  If there is no contact within 5 days of absence, the Academic Director will follow the withdrawal procedures 7.2 set out in the *Student Refunds, Withdrawals and Fee Protection Policy*. 
+  5.  If there is no contact within 5 days of absence, the Academic Director will follow the withdrawal procedures 7.2 set out in the [*Student Refunds, Withdrawals and Fee Protection Policy*](https://github.com/Developers-Institute/Student-Refunds-Withdrawals-Fee-Protection-Policy). 
   6.  Once this process has been actioned, the Academic Director will contact StudyLink to advise them to cancel any payments the student is receiving as part of a student loan (Living Costs) or a student allowance. Work and Income and/or Youth Service will be notified if appropriate.
   7.  A minimum of 90% attendance is required as part of the criteria to achieve the graduation certificate for any fee paying programme. The 10% allowance is to allow for sick days or special circumstances leave.
   8.  If a student does not attend the first two weeks of a programme or course, the enrolment in that programme and/or course(s) will be cancelled unless the student enrols after the first two weeks of the programme (i.e. late enrolment).
@@ -419,7 +423,7 @@ Gross violation of the rules and regulations may result in a stand down period.
 
 Students who are suspended or expelled are not eligible for any refund of any fees of any balance of their qualification.
 
-Please refer to the *Student Concerns, Complaints, Academic Appeals and Disciplinary Policy* for full information on the process and procedures regarding the Disciplinary Procedures.
+Please refer to the [*Student Concerns, Complaints, Academic Appeals and Disciplinary Policy*](https://github.com/Developers-Institute/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy) for full information on the process and procedures regarding the Disciplinary Procedures.
 
 ### Health and Safety
 Developers Institute will provide an environment which is safe for all students and staff.
@@ -544,7 +548,7 @@ The request must be received within 5 working days of receiving notification of 
   2.  If they are dissatisfied with the outcome of the discussion with the Wellbeing Manager or Tutor, then the student may appeal to the Academic Director in writing within five (5) days of receipt of the grade. 
   3.  The Academic Director’s decision shall be final.
   
-For further information about Assessment appeals, re-sits, re-marks or recounts please refer to the following policies; the *Student Concerns, Complaints, Academic Appeals and Disciplinary Policy* and the [*Student Performance Monitoring Policy*]('https://github.com/Developers-Institute/Student-Performance-Monitoring-Policy'), and the [*Assessment Policy*]('https://github.com/Developers-Institute/Assessment-Policy').
+For further information about Assessment appeals, re-sits, re-marks or recounts please refer to the following policies; the [*Student Concerns, Complaints, Academic Appeals and Disciplinary Policy*](https://github.com/Developers-Institute/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy) and the [*Student Performance Monitoring Policy*](https://github.com/Developers-Institute/Student-Performance-Monitoring-Policy), and the [*Assessment Policy*](https://github.com/Developers-Institute/Assessment-Policy).
 
 ### Plagiarism and cheating
 It is expected that all student work submitted is of their own.
@@ -552,15 +556,15 @@ It is expected that all student work submitted is of their own.
 Cheating - giving any fraudulent response, and Plagiarism - taking and using another’s work as one’s own without proper acknowledgment; is categorised as Academic misconduct. 
 Where Academic misconduct is alleged evaluation and disciplinary procedures will be followed., severe penalties will be imposed for confirmed misconduct.
 Developers Institute reserves the right to use electronic systems to detect academic misconduct. Students will be notified where such systems are in place.
-For further information refer to the [*Academic Integrity Policy*]('https://github.com/Developers-Institute/Academic-Intergrity-Policy'), and the [*Assessment Policy*]('https://github.com/Developers-Institute/Assessment-Policy').
+For further information refer to the [*Academic Integrity Policy*](https://github.com/Developers-Institute/Academic-Intergrity-Policy), and the [*Assessment Policy*](https://github.com/Developers-Institute/Assessment-Policy).
 
 ## Assessment Appeal Form.
-Please download the Assessment Appeal Form [here](https://github.com/Developers-Institute-Internal/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy/raw/master/Assessment%20Appeal%20Form.pdf)
+Please download the Assessment Appeal Form [here](https://github.com/Developers-Institute/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy/raw/master/Assessment%20Appeal%20Form.pdf)
 
 ## Suggestions and Complaints.
 A student may wish to offer a suggestion or complain about a decision, action or experience.  A suggestion can be uploaded anonymously to a digital suggestion box hosted by Typeform.
 
-All complaints should be brought to the attention of Developers Institute in the first instance by following the procedures set out in the *Student Concerns, Complaints, Academic Appeals and Disciplinary Policy* available on the Developers Institute website: www.developersinstitute.ac.nz. 
+All complaints should be brought to the attention of Developers Institute in the first instance by following the procedures set out in the [*Student Concerns, Complaints, Academic Appeals and Disciplinary Policy*](https://github.com/Developers-Institute/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy) available on the Developers Institute website: www.developers.ac.nz. 
 Students must make every attempt to resolve any concerns they may have, at the earliest opportunity with those most directly involved within the programme or service area in which it originated.
 
 Where the student wishes to make a complaint, they should follow the complaints process stating the nature of the complaint and outlining the steps already taken to address the issue. To ensure that complaints can be resolved effectively, a complaint must be lodged within 3 months of the event occurring.
@@ -592,7 +596,7 @@ These options are still available but now students have another alternative in t
 ## Complaint Form.
 Where a student wishes to make an informal complaint about something affecting their study on any programme at Developers Institute, a digital submission can be made [here.](https://developersinstitute349232.typeform.com/to/lLiPNo) 
 
-Alternatively a form can be [downloaded.](https://github.com/Developers-Institute-Internal/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy/raw/master/Complaint%20Form.pdf)
+Alternatively a form can be [downloaded.](https://github.com/Developers-Institute/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy/raw/master/Complaint%20Form.pdf)
 
 ## Student Guidance and Support.
 We can help you in the following ways:
@@ -640,10 +644,10 @@ Any verbal and/or physical behaviour of a sexual nature which is unwelcome, unso
 
 Developers Institute has **zero tolerance for any form of harassment.**
 
-For further information please refer to the [*Non-Discrimination, Anti-Harassment and Bullying Policy*]('https://github.com/Developers-Institute/Non-Discrimination-Anti-Harassment-and-Bullying-Policy').
+For further information please refer to the [*Non-Discrimination, Anti-Harassment and Bullying Policy*](https://github.com/Developers-Institute/Non-Discrimination-Anti-Harassment-and-Bullying-Policy).
 
 ## Guidance and Support Contact Information.
-A list of external support groups and organisations has been compiled and is available through the website www.developersinstitute.ac.nz
+A list of external support groups and organisations has been compiled and is available through the website www.developers.ac.nz
 
 ## Cultural Appropriateness.
 It is important that the learning environment and the teaching we provide is culturally appropriate.
