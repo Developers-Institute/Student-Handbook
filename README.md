@@ -1,4 +1,4 @@
-# Student-Handbook 2020
+# Student-Handbook
 
 ### CONTENTS
 
