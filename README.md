@@ -725,6 +725,26 @@ It is important that the learning environment and the teaching we provide is cul
 
 If you have any concerns about this or observe ways in which we can meet your needs more appropriately we will be pleased to have your help. We have cultural advisors available. They speak for us and for you.
 
+
+## Returning machines
+Please perform the following at the end of your study period at Developers Institute:
+### Wipe an IMac
+- IMac should be switched off
+- Press and hold Command + R
+- Switch on IMac while pressing Cmd and R, press it until loading bar is fully loaded on screen, release Cmd + R
+- Select Language
+- Select Disk Utility, continue
+- Select MacIntosh HD - Data
+- Click on minus to delete it
+- Select Internal MacIntosh HD
+- Click on Erase
+- Name of your computer and Format: APFS shows, click erase
+- Will take a while to erase everything, click on done and close the window
+- Now you should see the MacOS Utilities window
+- Select Re-Install MacOS (must be connected to WiFi), Continue
+- Select Agree, Select MacIntosh HD
+- Click install (Will have a black screen with loading bar)
+- 
 ### Māori Words and Greetings
 
 <table>  
