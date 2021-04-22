@@ -729,6 +729,8 @@ If you have any concerns about this or observe ways in which we can meet your ne
 ## Returning machines
 Please perform the following at the end of your study period at Developers Institute:
 ### Wipe an IMac
+- IF you have bootcamp installed:
+- - purge the bootcamp partition as per [the official docs](https://support.apple.com/en-nz/guide/bootcamp-assistant/bcmp59c41c31/mac)
 - IMac should be switched off
 - Press and hold Command + R
 - Switch on IMac while pressing Cmd and R, press it until loading bar is fully loaded on screen, release Cmd + R
