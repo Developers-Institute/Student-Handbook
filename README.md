@@ -725,6 +725,31 @@ It is important that the learning environment and the teaching we provide is cul
 
 If you have any concerns about this or observe ways in which we can meet your needs more appropriately we will be pleased to have your help. We have cultural advisors available. They speak for us and for you.
 
+
+## Returning machines
+Please perform the following at the end of your study period at Developers Institute:
+### Wipe an IMac
+- Enable (or check that you have previously enabled) FileVault and that you have the recovery key. See [the official docs](add-mac-reset-procedure).
+- IF you have bootcamp installed:
+- - purge the bootcamp partition as per [the official docs](https://support.apple.com/en-nz/guide/bootcamp-assistant/bcmp59c41c31/mac)
+- IMac should be switched off
+- Press and hold Command + R
+- Switch on IMac while pressing Cmd and R, press it until loading bar is fully loaded on screen, release Cmd + R
+- Select Language
+- Select Disk Utility, continue
+- Select MacIntosh HD - Data
+- Click on minus to delete it
+- Select Internal MacIntosh HD
+- Click on Erase
+- Name of your computer and Format: APFS shows, click erase
+- Will take a while to erase everything, click on done and close the window
+- Now you should see the MacOS Utilities window
+- Select Re-Install MacOS (must be connected to WiFi), Continue
+- Select Agree, Select MacIntosh HD
+- Click install (Will have a black screen with loading bar)
+
+**See Also**: This [video](https://www.youtube.com/watch?v=kZdfOkVib-c) walks through the process in Big Sur
+
 ### Māori Words and Greetings
 
 <table>  
