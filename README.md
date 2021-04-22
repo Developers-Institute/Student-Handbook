@@ -729,6 +729,7 @@ If you have any concerns about this or observe ways in which we can meet your ne
 ## Returning machines
 Please perform the following at the end of your study period at Developers Institute:
 ### Wipe an IMac
+- Enable (or check that you have previously enabled) FileVault and that you have the recovery key. See [the official docs](add-mac-reset-procedure).
 - IF you have bootcamp installed:
 - - purge the bootcamp partition as per [the official docs](https://support.apple.com/en-nz/guide/bootcamp-assistant/bcmp59c41c31/mac)
 - IMac should be switched off
@@ -746,7 +747,9 @@ Please perform the following at the end of your study period at Developers Insti
 - Select Re-Install MacOS (must be connected to WiFi), Continue
 - Select Agree, Select MacIntosh HD
 - Click install (Will have a black screen with loading bar)
-- 
+
+**See Also**: This [video](https://www.youtube.com/watch?v=kZdfOkVib-c) walks through the process in Big Sur
+
 ### Māori Words and Greetings
 
 <table>  
