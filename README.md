@@ -378,9 +378,9 @@ Please do not hesitate to ask if you have any queries.
 
 - [_Student Enrolment and Procedures Policy_](https://github.com/Developers-Institute/Student-Enrolment-and-Procedures-Policy).
 
-### Campus Rules and Regulations
+### Rules and Regulations
 
-These rules and regulations must be respected at all times by all individuals on any Developers Institute site, and during off-site activities.
+These rules and regulations must be respected at all times by all individuals.
 
 All students need to show up prepared to learn, co-operating at all times in the hope that you will learn new skills to help you progress to higher level study, or gain full-time employment.
 
@@ -390,9 +390,8 @@ All students are asked to:
 - Take into account the learning needs of others at all times
 - Turn up to training every day on time and to follow the set breaks
 - Follow the direction of the staff, or person in charge of Health and Safety matters
-- Comply with the smoking/non-smoking zones as indicated
 - Wear tidy, clean clothing or attire appropriate to the programme
-- Remove hats/caps on campus during programme hours – this includes off-site activities
+- Remove hats/caps during training meetings and recorded sessions.
 
 Failure to behave in accordance with the rules and regulations may result in a participant being asked to leave the programme.
 
@@ -407,10 +406,7 @@ Under no circumstances are students to:
 - Be abusive or aggressive towards staff or other students and to treat equipment with disrespect
 - Use foul language or to spit
 - Have offensive weapons in your possession
-- Smoke in areas designated NO SMOKING
-- Bring friends or mates to the programme other than to enquire about training
-- Bring animals to the programme
-- Eat or drink in the classrooms or vehicles
+- Eat or drink in the classrooms
 - Use a mobile phone during class time
 - Have electronic devices on while training with Developers Institute, unless it is required for training purposes
 
@@ -419,13 +415,13 @@ Under no circumstances are students to:
 - Students have signed a contract to accept Developers Institute rules.
 - Students are expected to attend their programme or work experience every day.
 - Students are expected to turn up on time.
-- If students are unable to get to work or to the course the student must phone the Developers Institute Administrator or contact the Tutor at least half an hour before the starting time.
-- If Developers Institute staff have not heard from a student they will be phoned every day, and home visited, until they let us know if they are returning.
+- If students are unable attend classes or organised meetings, students are required to complete an attendance form or notify their tutor/group of absence.
+- If Developers Institute staff have not heard from a student they will be contacted by phone and email daily, until they let us know if they are returning.
 - If contact is not made within 5 working days a student will be given a written notification that they are likely to be withdrawn from the programme. If contact is not made during the following week after the receipt of the letter, the student will be withdrawn from the course and their student allowance or benefit will be affected.
 
 ### Attendance Policy
 
-Students are required to attend all lectures, tutorials, practical classes, demonstrations, assessments and examinations required by the programme of study in which they are enrolled. Public Holidays are observed, with occasional availability to access campus for additional study time (this will be arranged on a case-by-case scenario). Some programmes have allocations for self-directed learning days for additional study and these will be advised by your Tutor.
+Students are required to attend all lectures, tutorials, practical classes, demonstrations, assessments and examinations required by the programme of study in which they are enrolled. Public Holidays are observed. Some programmes have allocations for self-directed learning days for additional study and these will be advised by your Tutor.
 
 Your Tutor will also ensure that you understand the correct start, finish and break times for the programme you are attending. Students are required to be punctual for classes and to be present for the duration of the class.
 
@@ -443,7 +439,7 @@ These conditions apply to all students on a programme at Developers Institute:
 
 1.  Medical certificate must be supplied if a student is away sick for THREE or more days.
 2.  If consistently late starting in the mornings or back from breaks, this will result in a warning from the Tutor and noted in the additional notes on the students file.
-3.  If a student is absent for three consecutive days without any contact, the Tutor and/or Academic Director will try to make contact with the student by phone or home visit and arrange learning conversation.
+3.  If a student is absent for three consecutive days without any contact, the Tutor and/or Academic Director will try to make contact with the student by phone and arrange learning conversation.
 4.  If no contact is made, the Academic Director will send a letter to the student advising them that their Student Allowance will be affected if they do not make contact or return to the programme.
 5.  If there is no contact within 5 days of absence, the Academic Director will follow the withdrawal procedures 7.2 set out in the [_Student Refunds, Withdrawals and Fee Protection Policy_](https://github.com/Developers-Institute/Student-Refunds-Withdrawals-Fee-Protection-Policy).
 6.  Once this process has been actioned, the Academic Director will contact StudyLink to advise them to cancel any payments the student is receiving as part of a student loan (Living Costs) or a student allowance. Work and Income and/or Youth Service will be notified if appropriate.
@@ -471,29 +467,20 @@ Developers Institute will provide an environment which is safe for all students 
 - Your first responsibility is to keep yourself safe.
 - Your second responsibility is to ensure that your actions do not endanger the safety of others.
 - Please inform your Tutor of any hazard you identify.
-- The First Aid resource person is your Tutor and then the Campus First Aid Officers. Your Tutor will tell you who they are.
-- First Aid resources and procedures will be explained by your Tutor.
-- If you have brought an approved guest on site, it is your responsibility to ensure they are aware of any hazards within the study environment
 
-Your health and safety is important to us in all of the environments you encounter while training. While on your programme your health and safety is the combined responsibility of the Developers Institute, you and the owner of any premises visited as part of a training programme.
+Your health and safety is important to us in all of the environments you encounter while training. While on your programme your health and safety is the combined responsibility of the Developers Institute, you for your own study environment.
 
 Developers Institute have the responsibility to:
 
-- Check for any hazards in the training venue and on extra-curricular activities or field trips, notifying you of these hazards and informing you how to minimise the risk. This includes checking the safety of any equipment used.
-- Inform you of emergency procedures when in training venues.
-- Ensure you have access to facilities for your health and safety at training venues.
-- Ask you if you have any medical problems, which could increase the risk to your health and safety in any training environment.
-- Document, investigate and report any serious accidents that occur.
+- Ask you if you have any medical problems, which could increase the risk to your health and safety.
 - Understand and abide by the requirements of the _Health and Safety at Work Act 2015_.
 
 You have the responsibility to:
 
-- Follow the instructions of your Tutor, premises or property owner at all times in the training venue, on extracurricular activities, on field trips and especially in the event of any emergency.
 - Behave in a responsible manner.
-- Notify your Tutor of any medical problems, which could increase the risk to your health and safety in any training environment e.g. epilepsy, asthma, allergy to bees, prone to fainting etc.
-- Notify your Tutor if you identify any health and safety concerns and follow any health and safety notices.
+- Notify your Tutor of any medical problems, which could increase the risk to your health and safety e.g. epilepsy, asthma, allergy to bees, prone to fainting etc.
+- Notify your Tutor if you identify any health and safety concerns.
 - Talk to your Tutor if you require any additional information about Health and Safety during your training programme.
-- Record details in the Institute’s Accident & Near Miss register for any relevant incident that occurs.
 
 **Note**: If you choose to use your own vehicle (or choose to travel in another student’s vehicle) to travel to or use during an extracurricular activity or field trip, Developers Institute accepts no liability for any injury or damage to any person or property.
 
@@ -507,50 +494,21 @@ Developers Institute full _Health and Safety Policy_ can be made available upon 
 
 ### Drug and Alcohol Policy
 
-- Drugs or alcohol are not permitted on the premises.
-- Drugs or alcohol are not to be consumed on the premises.
-- No person is permitted on the premises who is under the influence of drugs or alcohol.
+- No person is permitted to attend classes and meetings who is under the influence of drugs or alcohol.
 - Developers Institute will provide Health Education.
 - All staff are responsible for monitoring rules.
 - Counselling will be available.
-
-**Note**: The exception to these rules is during Developers Institute events, where alcohol may be supplied. Excessive consumption will not be tolerated, and at all times an appropriate level of conduct is expected of students.
 
 In any instance where the Drug & Alcohol policy is not adhered to, the Disciplinary Procedure will be practiced.
 
 ### Smoking Policy
 
-- Developers Institute will provide a designated smoke-free area for all Students.
-- For those who wish to smoke, a safe environment will be provided.
-- Smokers will dispose of their ashes and butts in the receptacles provided.
 - Developers Institute will provide Health Education.
 - Smoking of illegal substances is prohibited at all times.
-- Designated areas will be clearly signposted.
 - Times allocated for breaks will be observed.
 - All staff are responsible for monitoring rules.
 
 **Note**: Developers Institute encourages health and wellbeing and works closely with support agencies including Ringa Atawhai Health Trust through their Quit Smoking programme, if you would like more details for this please see your Tutor or the Administrator.
-
-### Fire Evacuation Procedure
-
-Students are to make themselves aware of the following basic steps in the event of a fire being discovered or emergency evacuation being required.
-
-Procedure for Campus:
-
-1.  Activate fire alarm by breaking glass and switching on
-2.  When the alarm signal is heard, leave by the nearest safe exit
-3.  Assemble at the nearest Evacuation Assembly Point (these will be pointed out during orientation and trial evacuations)
-4.  Staff will be responsible for contacting emergency services
-5.  If fire is preventing your evacuation of premises;
-    a. Locate nearest Fire Extinguisher
-    b. Locate nearest Fire Hose Reel
-    c. Locate and report to your Tutor immediately
-6.  Wardens will check if all occupants are evacuated and at Assembly Points by having a roll call.
-7.  When occupants are evacuating the building they should not worry about their own private property. The safety of people must have priority.
-
-**All occupants must remain at the assembly point until the “all clear” is given by the fire service**.
-
-Developers Institute will hold a trial evacuation once every term at each site.
 
 ### Equal Education Opportunities Policy
 
@@ -655,7 +613,7 @@ The Quality Commissioner aims to resolve disputes individual students may have w
 
 ## Complaint Form.
 
-Where a student wishes to make an informal complaint about something affecting their study on any programme at Developers Institute, a digital submission can be made [here.](https://developersinstitute349232.typeform.com/to/lLiPNo)
+Where a student wishes to make an informal complaint about something affecting their study on any programme at Developers Institute, a digital submission can be made [here.](https://share.hsforms.com/1g9naEKN4TJubxTsUkA2YoA4fxim)
 
 Alternatively a form can be [downloaded.](https://github.com/Developers-Institute/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy/raw/master/Complaint%20Form.pdf)
 
@@ -687,7 +645,7 @@ Health
 - Doctors Appointments
 - First Aid / Sickness
 - Emergency Contraception
-- Class Visits / Information etc
+- Class Information
 - Health Nurse
 
 Culturally Appropriate Resource People
@@ -725,10 +683,12 @@ It is important that the learning environment and the teaching we provide is cul
 
 If you have any concerns about this or observe ways in which we can meet your needs more appropriately we will be pleased to have your help. We have cultural advisors available. They speak for us and for you.
 
-
 ## Returning machines
+
 Please perform the following at the end of your study period at Developers Institute:
+
 ### Wipe an IMac
+
 - Enable (or check that you have previously enabled) FileVault and that you have the recovery key. See [the official docs](add-mac-reset-procedure).
 - IF you have bootcamp installed:
 - - purge the bootcamp partition as per [the official docs](https://support.apple.com/en-nz/guide/bootcamp-assistant/bcmp59c41c31/mac)
