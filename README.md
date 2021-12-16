@@ -415,7 +415,7 @@ Under no circumstances are students to:
 - Students have signed a contract to accept Developers Institute rules.
 - Students are expected to attend their programme or work experience every day.
 - Students are expected to turn up on time.
-- If students are unable attend classes or organised meetings, they are required to complete an attendance form or notify their tutor/group of absence.
+- If students are unable attend classes or organised meetings, students are required to complete an attendance form or notify their tutor/group of absence.
 - If Developers Institute staff have not heard from a student they will be contacted by phone and email daily, until they let us know if they are returning.
 - If contact is not made within 5 working days a student will be given a written notification that they are likely to be withdrawn from the programme. If contact is not made during the following week after the receipt of the letter, the student will be withdrawn from the course and their student allowance or benefit will be affected.
 
