@@ -292,7 +292,7 @@ Where money is due to Developers Institute and not paid as due, or arrangements 
 
 ### Fee Protection
 
-All fees (eg: administration fees, accommodation fees, student fees, or student services costs) are to be paid directly into the Public Trust Standard Trust Account, however any fees that are paid to Developers Institute will be deposited into a Standard Trust Fee Protect account held by the Public Trust the following working day upon receiving the fees from the student. This arrangement has been accepted by the New Zealand Qualifications Authority as meeting the requirements of the Education and Training Act 2020 and the Student Fee Protection Rules 2013.
+All fees (eg: administration fees, accommodation fees, student fees, or student services costs) are to be paid directly into the Public Trust Standard Trust Account, however any fees that are paid to Developers Institute will be deposited into a Standard Trust Fee Protect account held by the Public Trust the following working day upon receiving the fees from the student. This arrangement has been accepted by the New Zealand Qualifications Authority as meeting the requirements of the Education and Training Act 2020 and the Student Fee Protection Rules 2021.
 
 Students will receive a copy of their ‘Fee Protect Student Acknowledgement Form’, which includes a ‘Payment Schedule’ showing how their student fees will be paid out to Developers Institute over the length of the programme they are enrolled in.
 
