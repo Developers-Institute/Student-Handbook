@@ -131,7 +131,7 @@ Signed - Academic Director
 
 Developers Institute Limited is a wholly owned subsidiary of Entelechy Group Limited. All Developers Institute activities and decision-making are separate for Entelechy Group (shareholder) and any other subsidiary of Entelechy Group.
 
-Developers Institute is a registered training establishment by the New Zealand Qualifications Authority under the provisions of the Education Act 1989 and its subsequent amendments.
+Developers Institute is a registered training establishment by the New Zealand Qualifications Authority under the provisions of the Education and Training Act 2020 and its subsequent amendments.
 
 The Developers Institute is primarily focused on the delivery of web design, web development and software development education within the Northland Area of New Zealand, specifically in Whangārei.
 
@@ -203,7 +203,7 @@ Our vision is to provide accessible, affordable and transformative vocational ed
 
 ### Key Information
 
-The following information indicates what students can expect from Developers Institute Limited. A full copy of the Education Act 1989 and its subsequent amendments is available from the Academic Directors office.
+The following information indicates what students can expect from Developers Institute Limited. A full copy of the Education and Training Act 2020 and its subsequent amendments is available from the Academic Directors office.
 
 Students can expect fair and equitable treatment from Developers Institute and its employees. All students of Developers Institute are entitled to the following:
 
@@ -280,8 +280,8 @@ Students can find out whether they are eligible on the fees-free website, www.fe
 
 If a student withdraws within the first eight days after commencement of a programme, a fee refund will be due.
 Note: If fees have not been paid to Developers Institute, a refund will not be given.
-With effect from 2 June 2018, domestic students withdrawing from courses of less than three months duration are entitled to a refund, under section 235(1A) of the Education Act 1989.
-Domestic students are entitled to a refund if they withdraw from a programme or training scheme as per section 235 of the Education Act 1989, and if: the course is of three months duration or more and the withdrawal occurs up to the end of the eighth (8) working day after the start of a course.
+With effect from 2 June 2018, domestic students withdrawing from courses of less than three months duration are entitled to a refund, under section 357(3A) of the Education and Training Act 2020.
+Domestic students are entitled to a refund if they withdraw from a programme or training scheme as per section 357 of the Education and Training Act 2020, and if: the course is of three months duration or more and the withdrawal occurs up to the end of the eighth (8) working day after the start of a course.
 Formal withdrawal within the first eight (8) working days of the programme is confirmed by the completion and return of the Cancellation/Withdrawal Form to the Programme Coordinator. The Academic Director shall have been communicated with (by the Programme Coordinator) and signed off the form for the withdrawal to proceed. The date of withdrawal is deemed to be the date the student returns the signed Cancellation/Withdrawal form.
 The Developers Institute will refund an amount equal to the sum of the amount paid. Any due refunds will be available within fourteen days of notice of withdrawal.
 Please see [_Student Refunds, Withdrawals and Fee Protection Policy_](https://github.com/Developers-Institute/Student-Refunds-Withdrawals-Fee-Protection-Policy) for further information.
@@ -292,7 +292,7 @@ Where money is due to Developers Institute and not paid as due, or arrangements 
 
 ### Fee Protection
 
-All fees (eg: administration fees, accommodation fees, student fees, or student services costs) are to be paid directly into the Public Trust Standard Trust Account, however any fees that are paid to Developers Institute will be deposited into a Standard Trust Fee Protect account held by the Public Trust the following working day upon receiving the fees from the student. This arrangement has been accepted by the New Zealand Qualifications Authority as meeting the requirements of the Education Act 1989 and the Student Fee Protection Rules 2013.
+All fees (eg: administration fees, accommodation fees, student fees, or student services costs) are to be paid directly into the Public Trust Standard Trust Account, however any fees that are paid to Developers Institute will be deposited into a Standard Trust Fee Protect account held by the Public Trust the following working day upon receiving the fees from the student. This arrangement has been accepted by the New Zealand Qualifications Authority as meeting the requirements of the Education and Training Act 2020 and the Student Fee Protection Rules 2021.
 
 Students will receive a copy of their ‘Fee Protect Student Acknowledgement Form’, which includes a ‘Payment Schedule’ showing how their student fees will be paid out to Developers Institute over the length of the programme they are enrolled in.
 
