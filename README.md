@@ -534,7 +534,7 @@ The legislation relating to discrimination is contained in the _Human Rights Act
 
 ### Reassessment
 
-(Also known as re-sit). An opportunity for a student to undertake an assessment task or activity a second time (or more) within the timing of the programme or course. Re-sits and reassessments are carried out within the published timeline of the course. Course results usually are not published until after the resit/resubmission date.
+(Also known as re-sit). An opportunity for a student to undertake an assessment task or activity a second time within the timing of the programme or course. Re-sits and reassessments are carried out within the published timeline of the course. Course results usually are not published until after the resit/resubmission date.
 Any student who has scored below 50% on the assessment, or project may request one opportunity to resubmit their final assessment, or project. The Programme Committee will only allow one resubmission opportunity for an assessment item. The mark of a resubmission is capped at ceiling of 50% which equates to a C- grade.
 
 ### Appeal of Assessment
