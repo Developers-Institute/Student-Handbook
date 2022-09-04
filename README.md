@@ -613,9 +613,7 @@ The Quality Commissioner aims to resolve disputes individual students may have w
 
 ## Complaint Form.
 
-Where a student wishes to make an informal complaint about something affecting their study on any programme at Developers Institute, a digital submission can be made [here.](https://share.hsforms.com/1g9naEKN4TJubxTsUkA2YoA4fxim)
-
-Alternatively a form can be [downloaded.](https://github.com/Developers-Institute/Student-Concerns-Complaints-Academic-Appeals-and-Disciplinary-Policy/raw/master/Complaint%20Form.pdf)
+Where a student wishes to make an informal complaint about something affecting their study on any programme at Developers Institute, a submission can be made [here.](https://share.hsforms.com/1g9naEKN4TJubxTsUkA2YoA4fxim)
 
 ## Student Guidance and Support.
 
