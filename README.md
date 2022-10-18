@@ -675,6 +675,10 @@ For further information please refer to the [_Non-Discrimination, Anti-Harassmen
 
 A list of external support groups and organisations has been compiled and is available through the website www.developers.ac.nz
 
+      
+## Term Calendar
+ [View the following calendar to see which courses is available in each term.](https://github.com/Developers-Institute/Student-Handbook) 
+      
 ## Cultural Appropriateness.
 
 It is important that the learning environment and the teaching we provide is culturally appropriate.
