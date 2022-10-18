@@ -678,7 +678,7 @@ A list of external support groups and organisations has been compiled and is ava
 
       
 ## Term Calendar
- [View the following calendar to see which courses is available in each term.](https://github.com/Developers-Institute/Student-Handbook) 
+ [View the following calendar to see which courses is available in each term.](https://github.com/Developers-Institute/Student-Handbook/blob/master/Screen%20Shot%202022-10-19%20at%2011.19.00%20AM.png)
       
 ## Cultural Appropriateness.
 
