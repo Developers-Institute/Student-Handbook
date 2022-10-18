@@ -54,6 +54,7 @@
 [Suggestions and Complaints.](#suggestions-and-complaints)<br>
 [Complaint Form.](#complaint-form)<br>
 [Student Guidance and Support.](#student-guidance-and-support)<br>
+[Term Calendar](#term-calendar)<br>
 [Guidance and Support Contact Information.](#guidance-and-support-contact-information)<br>
 [Cultural Appropriateness.](#cultural-appropriateness)<br>
 [Karakia](#karakia)<br>
