@@ -50,7 +50,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Review and re-mark of Assessments](#review-and-re-mark-of-assessments)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Review Process](#review-process)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Plagiarism and cheating](#plagiarism-and-cheating)<br>
-**[Assessment Appeal Form.](#assessment-appeal-form)<br>
+\*\*[Assessment Appeal Form.](#assessment-appeal-form)<br>
 [Suggestions and Complaints.](#suggestions-and-complaints)<br>
 [Complaint Form.](#complaint-form)<br>
 [Student Guidance and Support.](#student-guidance-and-support)<br>
@@ -59,7 +59,6 @@
 [Cultural Appropriateness.](#cultural-appropriateness)<br>
 [Karakia](#karakia)<br>
 [Waiata](#waiata)<br>
-[Getting Here.](#getting-here)<br>**
 
 ## Welcome.
 
@@ -676,10 +675,10 @@ For further information please refer to the [_Non-Discrimination, Anti-Harassmen
 
 A list of external support groups and organisations has been compiled and is available through the website www.developers.ac.nz
 
-      
 ## Term Calendar
- [View the following calendar to see which courses is available in each term.](https://github.com/Developers-Institute/Student-Handbook/blob/master/Screen%20Shot%202022-10-19%20at%2011.19.00%20AM.png)
-      
+
+[View the following calendar to see which courses is available in each term.](https://github.com/Developers-Institute/Student-Handbook/blob/master/Screen%20Shot%202022-10-19%20at%2011.19.00%20AM.png)
+
 ## Cultural Appropriateness.
 
 It is important that the learning environment and the teaching we provide is culturally appropriate.
@@ -980,7 +979,3 @@ Our ancestors<br>
 Gifted to us<br>
 </td>
 </table>
-
-## Getting Here.
-
-Whangārei has a number of bus routes that connect to the Central Whangārei Campus. Timetables can be found online at: http://citylinkwhangarei.co.nz/ or you can ask your Tutor or the administration team for assistance.
