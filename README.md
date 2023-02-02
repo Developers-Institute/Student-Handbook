@@ -1,4 +1,4 @@
-# Student-Handbook 2022
+# Student-Handbook 2023
 
 ### CONTENTS
 
