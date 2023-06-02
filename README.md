@@ -55,6 +55,7 @@
 [Complaint Form.](#complaint-form)<br>
 [Student Guidance and Support.](#student-guidance-and-support)<br>
 [Term Calendar](#term-calendar)<br>
+[Term Dates 2023](#term-dates-2023)<br>
 [Guidance and Support Contact Information.](#guidance-and-support-contact-information)<br>
 [Cultural Appropriateness.](#cultural-appropriateness)<br>
 [Karakia](#karakia)<br>
@@ -678,6 +679,32 @@ A list of external support groups and organisations has been compiled and is ava
 ## Term Calendar
 
 [View the following calendar to see which courses is available in each term.](https://github.com/Developers-Institute/Student-Handbook/blob/master/Screen%20Shot%202022-10-19%20at%2011.19.00%20AM.png)
+      
+## Term Dates 2023
+      
+### Term 1 - 2023
+
+- **Course:** 7th Feb - 2nd Apr
+- **Break:** 3rd Apr - 23rd Apr
+      
+### Term 2 - 2023
+ 
+- **Course:** 24th Apr - 18th Jun
+- **Break:** 19th Jun - 9th Jul
+
+### Term 3 - 2023
+
+- **Course:** 10th Jul - 3rd Sep
+- **Break:** 4th Sep - 24th Sep
+      
+### Term 4 - 2023      
+
+- **Course:** 25th Sep - 19th Nov
+- **Break:** 20th Nov - 3rd Dec
+      
+### Summer Break - 2023-2024
+
+- 4th Dec - 4th Feb      
 
 ## Cultural Appropriateness.
 
